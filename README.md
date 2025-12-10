@@ -15,17 +15,17 @@ This repository includes:
 Retail-Sales-Analytics/
 │
 ├── data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
+│   ├── data.csv
+│   ├── cleaned_retail_data.csv
 │
 ├── notebooks/
-│   └── Retail_Sales_EDA.ipynb
+│   └── eda-on-a-comprehensive-sales-dataset.ipynb
 │
 ├── dashboards/
-│   └── Retail_Sales_Dashboard.pbix
+│   └── ComprehensiveSalesDashboard.pbix
 │
 ├── presentation/
-│   └── Retail_Sales_Insights_Presentation.pptx
+│   └── Presentation1_EDA.pptx
 │
 └── README.md
 
@@ -75,10 +75,10 @@ The Kaggle notebook includes:
 5. Leverage seasonal demand for planning.
 
 ## 🔗 Useful Links
-- Kaggle Notebook: [Insert Link]
-- Kaggle Dataset: [Insert Link]
-- LinkedIn Post: [Insert Link]
+- Kaggle Notebook: https://www.kaggle.com/code/chukwudiekweani/eda-on-a-comprehensive-sales-dataset/edit
+- Kaggle Dataset: https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset
 
 ## 📬 Contact
-Your Name  
-LinkedIn: [Insert Link]  
+Chukwudi Ekweani  
+LinkedIn: (https://www.linkedin.com/in/chukwudi-ekweani/)
+
